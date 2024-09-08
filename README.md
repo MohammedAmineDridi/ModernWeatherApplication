@@ -32,6 +32,14 @@ Here are a few screenshots showcasing the application's design and functionality
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+## Application Demo
+
+Check out the demo of my application on YouTube:
+
+[Watch the demo video](https://youtu.be/8Xq7iGBpmr4)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 ## 🛠️ Technologies Used
 
 - **Flutter**: For building the cross-platform mobile application with beautiful and responsive UIs.
